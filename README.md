@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate with startup business and business owners
 - 📫 How to reach me josephinebakare55@gmail.com
 - i love comunities
-- my Arsenal
+  # my work tools #
+- microsoft Excel
 - phyton
 - sql
 
