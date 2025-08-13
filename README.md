@@ -1,44 +1,41 @@
-# 👋 Hi, I'm Josephine Bakare (@jabdigitalspot)!
+# Hi, I'm Josephine Bakare! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/jabdigitalspot?style=social) 
-![Profile views](https://komarev.com/ghpvc/?username=jabdigitalspot)
+<!-- Badges -->
+![GitHub Followers](https://img.shields.io/github/followers/jabdigitalspot?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=jabdigitalspot)
 
 ---
 
-## 🛡️ Cybersecurity Specialist | Digital Defender
-
-- 🔎 Passionate about cybersecurity, threat detection, and digital safety
+### 👨‍💻 About Me
+- 🛡️ Cybersecurity Specialist
+- ☁️ Exploring Cloud Security, AI in Cybersecurity, and API Security
 - 🚀 Currently learning advanced cybersecurity techniques and ethical hacking
 - 🤝 Looking to collaborate with businesses, organizations, and security-focused communities
-- 🌱 Lifelong learner, excited about Cloud Security, AI in Cybersecurity, and API Security
-- 💬 How to reach me: [josephinebakare55@gmail.com](mailto:josephinebakare55@gmail.com)
-- 🌍 I love building and contributing to tech communities
+- 🌱 Lifelong learner, passionate about technology and innovation
 
 ---
 
-## 🛠️ Skills & Tools
+### 💼 My Work
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/josephine-bakare/)
+- 📄 [Resume](#) <!-- You can upload your resume and link it here, or use an external link -->
+- 💬 Email: [josephinebakare55@gmail.com](mailto:josephinebakare55@gmail.com)
 
+---
+
+### 🛠️ Skills
 - **Technical Expertise:** Web & Application Security, Penetration Testing, Risk Assessments, Network Security, Endpoint Security
-- **Work Tools:** Kali Linux, Ubuntu, Windows 10, VirtualBox, pfSense, Wazuh, Wireshark, Microsoft Excel
+- **Tools:** Kali Linux, Ubuntu, Windows 10, VirtualBox, pfSense, Wazuh, Wireshark, Microsoft Excel
 - **SIEM Tools:** Splunk, IBM QRadar, ArcSight, LogRhythm
 
 ---
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/josephine-bakare/)
-
----
-
-## 📊 GitHub Stats
-
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jabdigitalspot&show_icons=true&theme=radical)
 
 ---
 
-## ✨ Fun Fact
-
-I’m on a mission to make the digital world a safer place for everyone!
+### ✨ Fun Fact
+I'm on a mission to make the digital world a safer place for everyone!
 
 ---
 
