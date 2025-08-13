@@ -1,16 +1,14 @@
 # 👋 Hi, I’m @jabdigitalspot
 
-## 🚀 Cybersecurity Specialist | Digital Defender ##
+## I am a Cybersecurity Specialist ##
 
-Passionate about keeping the digital world safe!  
-I specialize in cybersecurity, threat detection, and protecting organizations from cyber risks.
+- 👀 I’m interested in cybersecurity, threat detection, and digital safety
+- 🌱 I’m currently learning advanced cybersecurity techniques and ethical hacking
+- 💞️ I’m looking to collaborate with businesses, organizations, and security-focused communities
+- 📫 How to reach me: josephinebakare55@gmail.com
+- I love building and contributing to tech communities
 
-- 🛡️ Always learning the latest in cybersecurity and ethical hacking
-- 🤝 Open to collaborating with businesses and security-focused communities
-- 💬 Let’s connect: josephinebakare55@gmail.com
-- 🌍 I thrive in tech communities and love sharing knowledge
-
-## 🛠️ My Work Tools ##
+## My Work Tools ##
 - Kali Linux
 - Ubuntu
 - Windows 10
